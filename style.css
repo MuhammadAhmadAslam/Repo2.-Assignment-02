@@ -1,6 +1,10 @@
+*{
+  margin: 2;
+  padding: 2;
+}
 nav {
-    background-color: hotpink;
-    padding: 2px;
+    background-color: rgba(31,31,31,255);
+   
 }
 h3{
   color: hotpink;
@@ -13,4 +17,7 @@ h4{
 }
 p{
   color: black;
+}
+body{
+  background-color: whitesmoke;
 }
